@@ -28,7 +28,7 @@ La investigación destaca la correlación entre factores económicos, como el PI
 
 ## Agradecimientos
 
-Un reconocimiento especial a mis colegas, Alex Taboada y David Jimenez, cuya colaboración fue invaluable. Sin su perspicacia y apoyo, navegar por este mar de datos hubiera sido mucho más desafiante.
+Un reconocimiento especial a mis colegas, Alex Taboada y David Jimenez, cuya ayuda fue invaluable. Sin su perspicacia y apoyo, navegar por este mar de datos hubiera sido mucho más desafiante.
 
 ## Material Complementario
 
