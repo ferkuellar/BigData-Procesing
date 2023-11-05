@@ -1,5 +1,11 @@
 # Análisis de la Felicidad Global: Una Mirada a través de los Datos
 
+## Material Complementario
+
+- [Jupyter Notebook con Análisis Detallado](https://github.com/ferkuellar/BigData-Procesing/blob/main/proyecto.ipynb)
+- [Repositorio en GitHub](https://github.com/ferkuellar/BigData-Procesing)
+- [Medium](https://medium.com/@fercuellar/explora-el-an%C3%A1lisis-notebook-8659cc721219)
+
 ## Introducción
 
 Este análisis se centra en descifrar los patrones de felicidad global a través de la lente de las estadísticas. Con un enfoque en el "Ladder score" como medida de la felicidad, exploramos varias facetas del bienestar, desde la riqueza económica hasta la longevidad.
@@ -29,12 +35,6 @@ La investigación destaca la correlación entre factores económicos, como el PI
 ## Agradecimientos
 
 Un reconocimiento especial a mis colegas, Alex Taboada y David Jimenez, cuya ayuda fue invaluable. Sin su perspicacia y apoyo, navegar por este mar de datos hubiera sido mucho más desafiante.
-
-## Material Complementario
-
-- [Jupyter Notebook con Análisis Detallado](https://github.com/ferkuellar/BigData-Procesing/blob/main/proyecto.ipynb)
-- [Repositorio en GitHub](https://github.com/ferkuellar/BigData-Procesing)
-- [Medium](https://medium.com/@fercuellar/explora-el-an%C3%A1lisis-notebook-8659cc721219)
 
 
 
