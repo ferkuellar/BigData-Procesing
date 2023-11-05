@@ -32,8 +32,8 @@ Un reconocimiento especial a mis colegas, Alex Taboada y David Jimenez, cuya col
 
 ## Material Complementario
 
-- [Jupyter Notebook con Análisis Detallado](#)
-- [Repositorio en GitHub](#)
+- [Jupyter Notebook con Análisis Detallado](https://github.com/ferkuellar/BigData-Procesing/blob/main/proyecto.ipynb)
+- [Repositorio en GitHub](https://github.com/ferkuellar/BigData-Procesing)
 
 
 
