@@ -35,14 +35,8 @@ Este estudio resalta la importancia de considerar una variedad de indicadores al
 ## Conclusión
 La felicidad es una métrica compleja y multifacética. A través de este análisis de datos, hemos obtenido una mejor comprensión de cómo los diferentes factores contribuyen al bienestar general de las naciones.
 
-## Agradecimientos
-Un agradecimiento especial a mis compañeros de estudio, Alex Taboada y David Jimenez, por su apoyo y colaboración a lo largo de este proyecto.
 
-## Cómo Acceder al Estudio
-El análisis completo, junto con el código y las visualizaciones, está disponible en el siguiente enlace: [Jupyter Notebook del Estudio](#)
 
-El repositorio completo del proyecto se puede encontrar aquí: [Repositorio de GitHub](#)
 
----
 
-Para expandir este esqueleto a un documento completo, simplemente rellena las secciones con tus datos y análisis específicos, y asegúrate de reemplazar los enlaces de marcador de posición `#` con los enlaces reales a tu Notebook de Jupyter y tu repositorio de GitHub.
+
