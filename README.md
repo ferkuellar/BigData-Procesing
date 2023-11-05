@@ -1,42 +1,39 @@
-# Análisis Global de la Felicidad: Un Estudio Comparativo de 2021
-
-## Resumen Ejecutivo
-En este estudio, exploramos los datos del Informe Mundial de la Felicidad para identificar los factores que contribuyen al bienestar y la satisfacción en la vida de las personas alrededor del mundo. Utilizamos técnicas de Big Data para analizar tendencias y proporcionar insights significativos.
+# Análisis de la Felicidad Global: Una Mirada a través de los Datos
 
 ## Introducción
-La búsqueda de la felicidad es una constante universal en la experiencia humana. Este análisis se centra en comprender cómo diversos factores como el PIB, la expectativa de vida y las libertades sociales influyen en la felicidad de las naciones.
+
+Este análisis se centra en descifrar los patrones de felicidad global a través de la lente de las estadísticas. Con un enfoque en el "Ladder score" como medida de la felicidad, exploramos varias facetas del bienestar, desde la riqueza económica hasta la longevidad.
 
 ## Metodología
-Para este estudio, utilizamos dos conjuntos de datos principales: `world-happiness-report.csv` y `world-happiness-report-2021.csv`. La limpieza y manipulación de los datos se realizaron utilizando Python y las bibliotecas Pandas y Numpy.
 
-## Análisis de Datos
-Se llevaron a cabo una serie de análisis para responder a las preguntas planteadas:
+Los datasets `world-happiness-report.csv` y `world-happiness-report-2021.csv` han sido piedras angulares en esta investigación. A través de Python y Pandas, limpiamos y fusionamos estos conjuntos de datos para realizar un análisis exhaustivo.
 
-1. **País Más Feliz de 2021**
-   El país con la puntuación más alta de felicidad en 2021 fue [nombre del país].
+## Resultados Clave
 
-2. **País Más Feliz por Continente en 2021**
-   Los países más felices por continente en 2021 fueron:
-   - América: [nombre del país]
-   - Europa: [nombre del país]
-   - Asia: [nombre del país]
-   - África: [nombre del país]
-   - Oceanía: [nombre del país]
+- **El país más feliz de 2021**: Identificamos el país con la puntuación más alta de felicidad en el año 2021.
+  
+- **Felicidad por continente en 2021**: Seleccionamos el país más feliz de cada continente basándonos en su "Ladder score".
+  
+- **Primacía en felicidad a lo largo de los años**: Revelamos qué nación ha encabezado la lista de felicidad más veces.
+  
+- **Relación entre PIB y felicidad**: Establecimos cómo el país con el mayor PIB en 2020 clasificó en términos de felicidad en 2021.
+  
+- **Variación del PIB mundial**: Calculamos la variación porcentual del PIB promedio mundial entre 2020 y 2021, contextualizando los efectos de la pandemia global.
 
-3. **País con Mayor Expectativa de Vida**
-   El país con la mayor expectativa de vida al nacer en 2021 fue [nombre del país].
+- **Expectativa de vida**: Correlacionamos la expectativa de vida con los niveles de felicidad y destacamos el país con la expectativa de vida más alta.
 
-## Resultados
-Los resultados del análisis muestran que la felicidad de una nación está influenciada por múltiples factores. El PIB per cápita y la expectativa de vida son indicadores clave, pero no exclusivos, del bienestar de un país.
+## Conclusiones
 
-## Discusión
-Este estudio resalta la importancia de considerar una variedad de indicadores al evaluar la felicidad y el bienestar. Las políticas públicas que promueven la salud, la riqueza y la libertad social pueden tener un impacto significativo en la felicidad de la población.
+La investigación destaca la correlación entre factores económicos, como el PIB, y la felicidad percibida. Sin embargo, también sugiere que el dinero no es el único determinante de la felicidad, con factores como la expectativa de vida jugando un rol significativo.
 
-## Conclusión
-La felicidad es una métrica compleja y multifacética. A través de este análisis de datos, hemos obtenido una mejor comprensión de cómo los diferentes factores contribuyen al bienestar general de las naciones.
+## Agradecimientos
 
+Un reconocimiento especial a mis colegas, Alex Taboada y David Jimenez, cuya colaboración fue invaluable. Sin su perspicacia y apoyo, navegar por este mar de datos hubiera sido mucho más desafiante.
 
+## Material Complementario
 
+- [Jupyter Notebook con Análisis Detallado](#)
+- [Repositorio en GitHub](#)
 
 
 
