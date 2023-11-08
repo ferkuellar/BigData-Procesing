@@ -3,7 +3,7 @@
 ## Material Complementario
 
 - [Jupyter Notebook con Análisis Detallado](https://github.com/ferkuellar/BigData-Procesing/blob/main/proyecto.ipynb)
-- [Medium](https://medium.com/@fercuellar/explora-el-an%C3%A1lisis-notebook-8659cc721219)
+- [Publicacion en Medium](https://medium.com/@fercuellar/explora-el-an%C3%A1lisis-notebook-8659cc721219)
 
 ## Introducción
 
